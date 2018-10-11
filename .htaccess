@@ -1,0 +1,5 @@
+# Prepend the file
+php_value auto_prepend_file "C:\php-practice\auto_prepend_file.php"
+
+# Append file to bottom of page
+php_value auto_append_file "C:\php-practice\auto_append_file.php"
